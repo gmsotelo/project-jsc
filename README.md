@@ -31,6 +31,10 @@ java UserInterface
 2. The GUI will open, allowing you to browse and select a text file for spellchecking.
 3. Perform spellchecking, view suggestions, and choose to save or discard changes.
 
+<p>
+    <img src="preview.png" alt="Preview of spellchecking process">
+</p>
+
 ### User Dictionary
 -   You can add words to your user-specific dictionary by selecting the "Add to Dictionary" option in the user interface.
 
