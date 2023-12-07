@@ -1,5 +1,5 @@
 # Spellchecker Application
-The Project JSC spellchecker application is designed to check and correct misspelled words in text files using a dictionary and a suggestion algorithm.
+The Project JSC spellchecker application is designed to check and correct misspelled words in text files using a dictionary and a suggestion algorithm. Built using Java and Swing
 
 ## Files
 
